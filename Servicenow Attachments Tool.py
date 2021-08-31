@@ -15,7 +15,7 @@ moveto = "C:/Users/Villa/Downloads/Attachments-20210729T002026Z-001/Attachments/
 moveto2 = os.scandir('C:/Users/Villa/Downloads/Attachments-20210729T002026Z-001/Attachments/attachmentsZip')
 user = ''
 pwd = ''
-instance = 'disneydev3'
+instance = ''
 class bcolors:
     OKGREEN = '\033[92m'
     FAIL = '\033[91m'
